@@ -1,6 +1,6 @@
 # LangGraph: A Comprehensive Guide
 
-## What is LangGraph??
+## What is LangGraph?
 LangGraph is a library for building stateful, multi-step workflows using Language Models (LLMs). It's particularly useful for:
 - Creating complex conversation flows
 - Building structured decision trees
